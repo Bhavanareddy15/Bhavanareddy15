@@ -3,6 +3,8 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>[PvP Snake Game using Nexys A7 FPGA](https://github.com/Bhavanareddy15/PvP-Snake-Game-using-Nexys-A7-FPGA)</b>
+
+- <b>[8088-Bus-Interfacing-with-the-Memory-and-IO-modules](https://github.com/Bhavanareddy15/8088-Bus-Interfacing-with-the-Memory-and-IO-modules/blob/main/README.md)</b>
   
 - <b>[GUI Application for a Boutique/Designer Studio](https://github.com/Bhavanareddy15/GUI-Based-Application)</b>
 
