@@ -8,6 +8,8 @@
   
 - <b>[GUI Application for a Boutique/Designer Studio](https://github.com/Bhavanareddy15/GUI-Based-Application)</b>
 
+- <b>[Simulation of Scheduler Portion of a Memory Controller](https://github.com/Bhavanareddy15/DDR5-Memory-Scheduling-Algorithm)</b>
+
 <h1>Currently, I am.. <br/></h1>
 
 - 🔭 I’m currently working on ...
