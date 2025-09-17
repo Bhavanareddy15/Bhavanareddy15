@@ -3,9 +3,8 @@
 <h2>👨‍💻 Programming Languages: </h2> System Verilog, Verilog, Python C , C++, Tcl
 
 <h2>My Projects:</h2>
-- <b>[Design and Verification of Asynchronous FIFO using UVM](https://github.com/Deepak-1159/team_11_Async_FIFO)</b>
 
-- <b>[PvP Snake Game using Nexys A7 FPGA](https://github.com/Bhavanareddy15/PvP-Snake-Game-using-Nexys-A7-FPGA)</b>
+- <b>[Design and Verification of Asynchronous FIFO using UVM](https://github.com/Deepak-1159/team_11_Async_FIFO)</b>
 
 - <b>[PvP Snake Game using Nexys A7 FPGA](https://github.com/Bhavanareddy15/PvP-Snake-Game-using-Nexys-A7-FPGA)</b>
 
