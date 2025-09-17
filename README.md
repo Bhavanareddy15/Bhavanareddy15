@@ -3,14 +3,13 @@
 <h2>👨‍💻 Programming Languages: </h2> System Verilog, Verilog, Python C , C++, Tcl
 
 <h2>My Projects:</h2>
-
+- <b>[Design and Verification of Asynchronous FIFO using UVM](https://github.com/Deepak-1159/team_11_Async_FIFO)</b>
 - <b>[PvP Snake Game using Nexys A7 FPGA](https://github.com/Bhavanareddy15/PvP-Snake-Game-using-Nexys-A7-FPGA)</b>
-
 - <b>[8088-Bus-Interfacing-with-the-Memory-and-IO-modules](https://github.com/Bhavanareddy15/8088-Bus-Interfacing-with-the-Memory-and-IO-modules/blob/main/README.md)</b>
-  
 - <b>[GUI Application for a Boutique/Designer Studio](https://github.com/Bhavanareddy15/GUI-Based-Application)</b>
-
 - <b>[Simulation of Scheduler Portion of a Memory Controller](https://github.com/Bhavanareddy15/Bhavanareddy15-DDR5-Memory-Scheduling-Algorithm)</b>
+
+
 
 <h1>Currently, I am.. <br/></h1>
 
