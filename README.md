@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bhavana! <br/> </h1> Page still in progress
+<h1>Hi, I'm Bhavana! <br/> </h1> 
 
 <h2>👨‍💻 My Projects:</h2>
 
@@ -12,7 +12,7 @@
 
 <h1>Currently, I am.. <br/></h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on enhancing my Programming skills
 - 🌱 I’m currently learning AMBA protocol
 - 👯 I’m looking to collaborate on any Embedded projects
 - 🤔 I’m looking for help with ...
