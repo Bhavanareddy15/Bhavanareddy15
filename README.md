@@ -10,7 +10,7 @@
 
 - <b>[8088-Bus-Interfacing-with-the-Memory-and-IO-modules](https://github.com/Bhavanareddy15/8088-Bus-Interfacing-with-the-Memory-and-IO-modules/blob/main/README.md)</b>
 
-- <b>[GUI Application for a Boutique/Designer Studio](https://github.com/Bhavanareddy15/GUI-Based-Application)</b>
+- <b>[GUI Application for Structured Customer Data Entry](https://github.com/Bhavanareddy15/GUI-Based-Application)</b>
 
 - <b>[Simulation of Scheduler Portion of a Memory Controller](https://github.com/Bhavanareddy15/Bhavanareddy15-DDR5-Memory-Scheduling-Algorithm)</b>
 
