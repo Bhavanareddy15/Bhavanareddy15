@@ -6,13 +6,13 @@
 
 - <b>[Design and Verification of Asynchronous FIFO using UVM](https://github.com/Deepak-1159/team_11_Async_FIFO)</b>
 
-- <b>[PvP Snake Game using Nexys A7 FPGA](https://github.com/Bhavanareddy15/PvP-Snake-Game-using-Nexys-A7-FPGA)</b>
+- <b>[PvP Snake Game using Nexys A7 FPGA and C](https://github.com/Bhavanareddy15/PvP-Snake-Game-using-Nexys-A7-FPGA)</b>
 
-- <b>[8088-Bus-Interfacing-with-the-Memory-and-IO-modules](https://github.com/Bhavanareddy15/8088-Bus-Interfacing-with-the-Memory-and-IO-modules/blob/main/README.md)</b>
+- <b>[8088-Bus-Interfacing-with-the-Memory-and-IO-modules using System Verilog](https://github.com/Bhavanareddy15/8088-Bus-Interfacing-with-the-Memory-and-IO-modules/blob/main/README.md)</b>
 
-- <b>[GUI Application for Structured Customer Data Entry](https://github.com/Bhavanareddy15/GUI-Based-Application)</b>
+- <b>[GUI Application for Structured Customer Data Entry using Python](https://github.com/Bhavanareddy15/GUI-Based-Application)</b>
 
-- <b>[Simulation of Scheduler Portion of a Memory Controller](https://github.com/Bhavanareddy15/Bhavanareddy15-DDR5-Memory-Scheduling-Algorithm)</b>
+- <b>[Simulation of Scheduler Portion of a Memory Controller employing DDR5 using C](https://github.com/Bhavanareddy15/Bhavanareddy15-DDR5-Memory-Scheduling-Algorithm)</b>
 
 
 
