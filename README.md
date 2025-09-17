@@ -1,8 +1,8 @@
 <h1>Hi, I'm Bhavana! <br/> </h1> 
 
-<h2>👨‍💻 Programming Languages:</h2>
+<h2>👨‍💻 Programming Languages: System Verilog, Verilog, Python C , C++, Tcl</h2>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>My Projects:</h2>
 
 - <b>[PvP Snake Game using Nexys A7 FPGA](https://github.com/Bhavanareddy15/PvP-Snake-Game-using-Nexys-A7-FPGA)</b>
 
