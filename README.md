@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bhavana! <br/> </h1> 
 
-<h2>👨‍💻 Programming Languages: System Verilog, Verilog, Python C , C++, Tcl</h2>
+<h2>👨‍💻 Programming Languages: </h2> System Verilog, Verilog, Python C , C++, Tcl
 
 <h2>My Projects:</h2>
 
