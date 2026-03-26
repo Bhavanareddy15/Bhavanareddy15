@@ -19,14 +19,12 @@
 <h1>Currently, I am.. <br/></h1>
 
 - 🔭 I’m currently working on enhancing my Programming skills
-- 🌱 I’m currently learning AMBA protocol
+- 🌱 I’m currently learning AMBA protocols
 - 👯 I’m looking to collaborate on any Embedded projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my recent hike
 - 📫 How to reach me: marpadagabhavana@gmail.com, bhavanam@pdx.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a twin😁 
-
 
 <h2> 🤳 Connect with me:</h2>
 
